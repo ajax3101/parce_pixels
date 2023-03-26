@@ -5,6 +5,9 @@
 Парсинг лучших бесплатных стоковых фото, изображения без роялти и видео от талантливых авторов.
 $ https://www.pexels.com/ru-ru/
 
+Создайте свой ресурс, используя Pexels
+Приступите прямо сейчас и сразу же получите свой уникальный ключ API.
+
 ## Running the Project Locally
 
 First, clone the repository to your local machine:
