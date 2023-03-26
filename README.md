@@ -1,9 +1,10 @@
 # Парсинг картинок с сайта PEXELS
-# https://www.pexels.com/ru-ru/
 [![Python Version](https://img.shields.io/badge/python-3.11-brightgreen.svg)](https://python.org)
 
 Парсинг лучших бесплатных стоковых фото, изображения без роялти и видео от талантливых авторов.
+```bash
 $ https://www.pexels.com/ru-ru/
+```
 
 Создайте свой ресурс, используя Pexels
 Приступите прямо сейчас и сразу же получите свой уникальный ключ API.
